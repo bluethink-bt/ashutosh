@@ -1,0 +1,7 @@
+select, textarea {
+    margin: 10px;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    padding: 10px;
+}
